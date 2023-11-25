@@ -1,0 +1,12 @@
+{
+  "name": "typescript-mastery-series",
+  "version": "1.0.0",
+  "description": "Welcome to the TypeScript Mastery series! This series is designed to take you on a journey from the basics of TypeScript to advanced concepts, providing a solid foundation for building scalable and maintainable applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
