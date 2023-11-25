@@ -44,6 +44,11 @@ git checkout part-1
 - `part-8`: Integrating TypeScript into Real Projects
 - `part-9`: Testing and Debugging TypeScript Applications
 - `part-10`: Going Beyond - Advanced TypeScript Concepts
+- `part-11`: Decorators in TypeScript - Advanced TypeScript Concepts
+- `part-12`: GGenerics in TypeScript - Advanced TypeScript Concepts
+- `part-13`: Type Guards and Type Assertions - Advanced TypeScript Concepts
+
+
 
 ## Connect with the Author
 
