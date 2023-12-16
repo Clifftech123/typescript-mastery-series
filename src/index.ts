@@ -1,15 +1,16 @@
-// The // greet
+function greet(name: string): void {
+  console.log(`Hello, ${name}!`);
+}
 
-// function greet1(name: string): void {
-//   console.log(`Hello, ${name}!`);
-// }
-
-// greet1("TypeScript"); // Hello, TypeScript!
+greet("TypeScript"); // Hello, TypeScript!
 
 
+
+// Declaring a class 
 class Person {
   constructor(public name: string) {}
 
+// Declaring a function
   greet() {
     console.log(`Hello, ${this.name}`);
   }
@@ -24,7 +25,12 @@ person2.greet(); // Hello, John Doe
 
 
 
+
 let age: number = 25;
-age = 20 + 5;  // 25
-console.log(age);
+// age = "25"; // This will cause a compile-time error
+
+// so that we can use it later
+
+age = 20 + 5; // This is fine
+console.log(age); // 25
 
